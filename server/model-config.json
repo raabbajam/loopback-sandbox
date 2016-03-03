@@ -31,5 +31,13 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Customer": {
+    "dataSource": "db",
+    "public": true
+  },
+  "BankAccount": {
+    "dataSource": "db",
+    "public": true
   }
 }
